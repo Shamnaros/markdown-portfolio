@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Programming languages that I would like to learn are _**Python, C++, C,** and many more._
